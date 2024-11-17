@@ -6,11 +6,9 @@ const Team = () => {
       <div className="container">
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-            fugit dicta, ipsum impedit quam laboriosam quas doloremque quia
-            perferendis laborum.
-          </p>
+          <h1>Culinary Dream Team: Passionate Creators Crafting Unforgettable Flavors.</h1>
+       
+        
         </div>
         <div className="team_container">
           {data[0].team.map((element) => {

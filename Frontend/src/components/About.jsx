@@ -13,13 +13,7 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+            At OpenTable, we believe a great meal should start with a stress-free experience. That's why we built a user-friendly platform to help you secure your perfect table at top restaurants in just a few clicks. No more busy phone lines or waiting on hold. Our mission is to streamline the reservation process, so you can focus on what truly matters - savoring delicious food and creating lasting memories with loved ones.
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
